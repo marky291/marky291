@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 If you are working on something that you really care about, you don't have to be pushed.
 
 <!--
 **marky291/marky291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
